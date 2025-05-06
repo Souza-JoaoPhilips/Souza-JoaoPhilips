@@ -27,11 +27,8 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
 - **Email:** [Joao Lucas Rebello](mailto:joaolucasrebello1@gmail.com)
  
 ![Java Logo](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-
 ![PostgresSQL Logo](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
-
 ![SpringBot Logo](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
-
 ![Html Logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
 
 ![Css Logo](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg)

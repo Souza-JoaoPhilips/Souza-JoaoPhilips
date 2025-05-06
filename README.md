@@ -34,7 +34,7 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
 ![JS Logo](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
  
 <p align="center">
-<img height="200" src="[https://raw.githubusercontent.com/LTLA/acceptable-anime-gifs/master/registry/16742_WataMote/0001.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fphilipssg_tv_sound&psig=AOvVaw1I9yQ-x4vQJWW1dnKJVRmC&ust=1746627652703000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDozpiFj40DFQAAAAAdAAAAABAE)">
+<img height="200" src="https://raw.githubusercontent.com/LTLA/acceptable-anime-gifs/master/registry/16742_WataMote/0001.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fphilipssg_tv_sound&psig=AOvVaw1I9yQ-x4vQJWW1dnKJVRmC&ust=1746627652703000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDozpiFj40DFQAAAAAdAAAAABAE">
 </p>
 
  

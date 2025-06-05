@@ -6,21 +6,21 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
  
 - **Nome:** João Lucas Rebello Aldrovandi de Souza
 
-- **Profissão:** Atualmente trabalho na Philips como R&D, mas possuo grande interesse na parte de desenvolvimento.
+- **Profissão:** Atualmente trabalho na Philips como estagiario no time de DevOps, possuo grande interesse na parte de automação e desenvolvimento.
 
 - **Localização:** Blumenau, Santa Catarina
 
 - **Interesses:** Aprender novas mecânicas na programação, sempre buscando o melhor desenvolvimento.
 
-- **Hobbie:** Gosto de jogar, ver filmes e ter momentos de lazer com quem gosto.
+- **Hobbie:** Gosto de jogar videogame, ver filmes, jogar futebbol e ter momentos de lazer com quem gosto.
  
 ## 📈 Minhas Habilidades
  
-- **Linguagens de Programação:** Utilizo diarimanete Java me aprofudando cada vez mais com Framework Spring e aprimorando meus conhecimentos.
+- **Linguagens de Programação:** Utilizo diarimanete Java e quero começar a aprender a utilizar o Framework Spring para projetos mais complexos.
 
-- **Front End** Estou aprendendo HTML, CSS e Javascript.
+- **Front End** Estou aprendendo HTML, CSS e Javascript. Quero aprender o mais rápido possível a utilizar frameworks como React e Angular. 
 
-- **Banco de Dados** Atualmente estou utilizando e estudo cada vez mais PostgresSQL para aplicações mais complexas e banco H2 para teste rápidos.
+- **Banco de Dados** Estou aprendendo comandos básicos PL/SQL.
  
 ## 🌍 Conecte-se Comigo
 
@@ -31,9 +31,3 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
 ![Html Logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
 ![Css Logo](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg)
 ![JS Logo](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
- 
-<p align="center">
-<img height="200" src="https://raw.githubusercontent.com/LTLA/acceptable-anime-gifs/master/registry/16742_WataMote/0001.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fphilipssg_tv_sound&psig=AOvVaw1I9yQ-x4vQJWW1dnKJVRmC&ust=1746627652703000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDozpiFj40DFQAAAAAdAAAAABAE">
-</p>
-
- 

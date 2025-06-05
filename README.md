@@ -16,7 +16,7 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
  
 ## 📈 Minhas Habilidades
  
-- **Linguagens de Programação:** Utilizo diarimanete Java e quero começar a aprender a utilizar o Framework Spring para projetos mais complexos.
+- **Linguagens de Programação:** Utilizo diarimanete Python(Framework Django) & Java e quero começar a aprender a utilizar o Framework Spring para projetos mais complexos.
 
 - **Front End** Estou aprendendo HTML, CSS e Javascript. Quero aprender o mais rápido possível a utilizar frameworks como React e Angular. 
 
@@ -31,3 +31,4 @@ Sou um **estudante de programação** apaixonado por **aprender novas ferramenta
 ![Html Logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
 ![Css Logo](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg)
 ![JS Logo](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+![Django Logo](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg)

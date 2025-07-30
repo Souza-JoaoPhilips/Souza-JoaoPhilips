@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou o João Lucas Rebello!
+# 👋  Hey, I'm João Lucas Rebello!
 
-🎓 Estudante de Ciências da Computação
-💻 Estagiário DevOps na Philips  
-🔐 Entusiasta em Cibersegurança  
+🎓 Student of Computer Science
+💻  DevOps Intern at Philips  
+🔐  Cybersecurity Enthusiast
 
 ## 🚀 Technologies & Tools
 

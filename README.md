@@ -19,8 +19,8 @@
 
 ## 📫 Let's connect
 
-- ✉️ [Professional email] joaolucas.souza@philips.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/joaolucasrebello)  
+- ✉️ [Professional email](joaolucas.souza@philips.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-lucas-souza-919134322/)  
 
 ---
 

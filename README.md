@@ -1,4 +1,4 @@
-# 👋  Hey, I'm João Lucas Rebello!
+# 👋  Hey, I'm João Lucas Souza!
 
 🎓 Student of Computer Science
 💻  DevOps Intern at Philips  
